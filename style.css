@@ -1,0 +1,21 @@
+body {
+    background-color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 250px;
+    border-radius: 25px;
+    border: 1px solid black
+}
+
+.highlight-list-item {
+    font-size: 50px;
+    color:cornflowerblue
+}
+
+#link-text {
+    font-size: 50px;
+    color:cornflowerblue
+    
+}
